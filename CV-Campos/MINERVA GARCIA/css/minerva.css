@@ -1,0 +1,22 @@
+body {
+    font: 1em sans-serif;    
+    font-size: medium;
+    word-spacing: normal;
+    background-color: #f3dfdc;
+
+}
+
+h1 {
+    font-style: italic;
+    text-decoration:double;
+}
+
+h2{
+    font: 1em verdana;
+    font-weight: bold;
+}
+
+div a{
+    background-color:#5DC1B9;
+    
+}
